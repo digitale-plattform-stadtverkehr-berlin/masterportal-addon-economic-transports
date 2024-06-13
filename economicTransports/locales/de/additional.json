@@ -1,0 +1,33 @@
+{
+    "modules": {
+        "tools": {
+            "EconomicTransports": {
+                "title": "Wirtschaftsverkehr",
+                "selectState": "Land/Stadt auswählen",
+                "labelState": "Land/Stadt",
+                "selectDistrict": "Stadt/Ortsteil auswählen",
+                "labelDistrict": "Stadt/Ortsteil",
+                "selectCity": "Teilverkehrszelle auswählen",
+                "noCity": "Keine Teilverkehrszellen vorhanden",
+                "labelCity": "Teilverkehrszelle",
+                "checkName": "Namen anzeigen",
+                "checkNumber": "Werte anzeigen",
+                "checkBeams": "Linien anzeigen",
+                "checkAnimation": "Animation anzeigen",
+                "buttonStart": "Start",
+                "buttonStop": "Stop",
+                "selectOut": "Start",
+                "selectIn": "Ziel",
+                "tooltipOut": "Anzahl von Trips des Wirtschaftsverkehrs deren Start im ausgewählten Gebiet liegt.",
+                "tooltipIn": "Anzahl von Trips des Wirtschaftsverkehrs deren Ziel im ausgewählten Gebiet liegt.",
+                "buttonLess": "{{listChunk}} weniger",
+                "buttonMore": "{{listChunk}} weitere",
+                "buttonAll": "Alle laden",
+                "linkMoreInfo": "Weitere Informationen",
+                "buttonReset": "$t(additional:modules.tools.EconomicTransports.title) zurücksetzen",
+                "labelPeople": "Fahrten",
+                "noDataset": "Keine Fahrten des Wirtschaftsverkehr bekannt!"
+            }
+        }
+    }
+}
