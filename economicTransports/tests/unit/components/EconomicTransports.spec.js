@@ -28,7 +28,7 @@ describe("addons/economicTransports/components/EconomicTransports.vue", () => {
                         children: {
                             EconomicTransports:
                                 {
-                                    "name": "translate#additional:modules.tools.economicTransports.title",
+                                    "name": "translate#additional:modules.EconomicTransports.title",
                                     "icon": "bi-arrow-left-right"
                                 }
                         }

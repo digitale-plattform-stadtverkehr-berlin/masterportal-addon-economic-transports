@@ -1,8 +1,9 @@
 {
     "modules": {
-        "tools": {
             "EconomicTransports": {
-                "title": "Wirtschaftsverkehr",
+                "title": "KEP-ähnliche-Verkehre",
+                "description": "Visualisiere KEP-ähnliche-Verkehre",
+                "select": "Bitte auswählen",
                 "selectState": "Land/Stadt auswählen",
                 "labelState": "Land/Stadt",
                 "selectDistrict": "Stadt/Ortsteil auswählen",
@@ -24,10 +25,9 @@
                 "buttonMore": "{{listChunk}} weitere",
                 "buttonAll": "Alle laden",
                 "linkMoreInfo": "Weitere Informationen",
-                "buttonReset": "$t(additional:modules.tools.EconomicTransports.title) zurücksetzen",
+                "buttonReset": "$t(additional:modules.EconomicTransports.title) zurücksetzen",
                 "labelPeople": "Fahrten",
                 "noDataset": "Keine Fahrten des Wirtschaftsverkehr bekannt!"
             }
-        }
     }
 }
